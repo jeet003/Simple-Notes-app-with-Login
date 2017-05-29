@@ -1,5 +1,5 @@
 # Simple-Notes-app-with-Login
-Android reminder app
+Android Notes app
 
 Features
 -------
