@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="17626b652b3e36663b7eeacf1c7decc91ee00533">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cab336fd8c6f8526bea3a8708ffd05ac20a4302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c764939795abaca4ba613ed2ee62fad24b4e428e">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c3cd683126f807054d0143e06e888dae5031c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_53b773e73fa20803a35adb9a4eabd4ca15e89b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_2700cc61a406dd9eb7555b00512da422a2e7ddf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_aefd245ac3c8b14ebdd29143391c30dd59f24bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.1_e6b0e5126a458bbef708525d675462ab6f502a9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_1524b49b587332f21113d5dec4780a1000087be4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_e6b0e5126a458bbef708525d675462ab6f502a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_1524b49b587332f21113d5dec4780a1000087be4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_2700cc61a406dd9eb7555b00512da422a2e7ddf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_ce513ac3caa5df4915c390a6bf52f0ed36dd0046.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_aefd245ac3c8b14ebdd29143391c30dd59f24bc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_6996c3bbd3a9dccdac9e022bd6bcc263bd86016b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.1_8921b697b37e1fc6664f267946d93e0e7b445b74.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_ce513ac3caa5df4915c390a6bf52f0ed36dd0046/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.1_c6ab652601a8c65a88c9581d0bcc2396f314f9f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_46edd8a196e528a511d45b9f84b222dcbf1d2cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_8921b697b37e1fc6664f267946d93e0e7b445b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_6996c3bbd3a9dccdac9e022bd6bcc263bd86016b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_cc4fbf8640e3d7087e28b3571b8ea46e16c96ecb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_c6ab652601a8c65a88c9581d0bcc2396f314f9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_cc4fbf8640e3d7087e28b3571b8ea46e16c96ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_20c7d438b14391bcd755a6c6d04dd8ccfbfc1f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_883b56a7a9ecaabfc96820ced8116d0c1982c8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_53b773e73fa20803a35adb9a4eabd4ca15e89b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.1_20c7d438b14391bcd755a6c6d04dd8ccfbfc1f76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_cf321bee5f9d6b6b856e058747e563204c515926/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_cf321bee5f9d6b6b856e058747e563204c515926.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_883b56a7a9ecaabfc96820ced8116d0c1982c8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jeet/Notes/Notes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/jeet/Notes/Notes/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_46edd8a196e528a511d45b9f84b222dcbf1d2cce.jar" />
+    </item>
+
+</items>
